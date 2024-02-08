@@ -2,5 +2,5 @@
 resume for students
 
 - можно посетить [страницу](https://nikanorovdev.github.io/resume/).
-* Простой лэндинг
+* Простая верстка
 + CSS не так уж и много, посмотрите. 
